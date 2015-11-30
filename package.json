@@ -12,7 +12,11 @@
     "mysql":"*",
     "mongodb":"*",
     "xmldom":"*",
+    "parse":"*",
+    "node-parse-api":"*",
     "x2js":"*",
+    "xml2js":"*",
+    "async":"*",
     "jade": "*"
   }
 }
